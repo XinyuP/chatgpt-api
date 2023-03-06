@@ -1,0 +1,8 @@
+POST http://localhost:1337/api
+Content-Type: application/json
+
+{
+    "prompt": "what should i do when my partner is grumpy?"
+}
+
+GET http://localhost:1337/api
